@@ -2,5 +2,8 @@
 name = "cargo_hello"
 version = "0.1.0"
 edition = "2021"
+author = "daniel peter"
 
 [dependencies]
+
+rand = "0.3.14"
